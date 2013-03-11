@@ -4,7 +4,7 @@ Object.prototype.error = function (message, t) {
     t.message = message;
     throw t;
 };
-
+ 
 function main() {
     var parse = make_parse();
 
