@@ -6,7 +6,7 @@ See Douglas Crockford http://javascript.crockford.com/tdop/tdop.html
 * tdop.html Crockford article: contains a description of 
             Vaughn Pratt's Top Down Operator Precedence,
             and describes a parser for Simplified JavaScript in
-            Simplified JavaScript.
+            Simplified JavaScript. 
 
 * index.html loads the scripts and shows the initial input page
 
