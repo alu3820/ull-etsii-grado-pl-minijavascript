@@ -26,7 +26,7 @@ String.prototype.tokens = function () {
     var m;                      // Matching
     var result = [];            // An array to hold the results.
 
-    var WHITES              = _______________________________________;
+    var WHITES              = m_______________________________________;
     var ID                  = _______________________________________;
     var NUM                 = _______________________________________;
     var STRING              = _______________________________________;
