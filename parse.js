@@ -20,7 +20,7 @@ var make_parse = function () {
         define: function (n) {
             var t = this.def[n.value];
             if (typeof t === "object") {
-                n.error(t.reserved ? "Already reserved." : "Already defined.");
+                n.error(t.reserved ? "Already reserved. " : "Already defined.");
             }
             this.def[n.value] = n;
             n.reserved = false;
